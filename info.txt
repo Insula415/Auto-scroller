@@ -1,0 +1,27 @@
+HOW TO USE:
+(This uses chrome, edit the code if you are looking to use a different browser)
+
+1. Download selenium and webdriver (look below for more information on selenium download)
+
+2. Enter your instagram details in secrets.py
+
+3. python3 insta.py
+
+4. Input an Instagram username and the number of Instagram posts that user has.
+
+
+INSTALLING SELENIUM:
+1. sudo apt-get install selenium
+
+2. Install the webdriver for your browser, search "selenium [your browser] webdriver" on the internet.
+
+3. You need to find your browser version. If you are using chrome type "chrome://version/" into the search bar,
+   from there download the suitable webdriver for your browser.
+
+			If you have any problems or criticism email me at fredisheretohelp@protonmail.com
+	
+
+
+Issues: The code might still scroll for a bit more than it needs, just wait until it says "finished" then you can control your 
+	scrolling again.
+	Calculations may be off, they are all averages.
