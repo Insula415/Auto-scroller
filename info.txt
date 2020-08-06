@@ -25,3 +25,4 @@ INSTALLING SELENIUM:
 Issues: The code might still scroll for a bit more than it needs, just wait until it says "finished" then you can control your 
 	scrolling again.
 	Calculations may be off, they are all averages.
+	Might not work with VPN.
