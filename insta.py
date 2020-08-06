@@ -6,7 +6,7 @@ from secrets import *
 class Instabot:
     def __init__(self):
         try:
-            name = input("Please enter the Instagram user: ")
+            name = input("Please enter the Instagram user: @")
             posts = int(input("Please enter number of posts user has: "))
         except:
             print("Error, enter a sensible input")
