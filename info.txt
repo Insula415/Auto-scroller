@@ -18,11 +18,13 @@ INSTALLING SELENIUM:
 3. You need to find your browser version. If you are using chrome type "chrome://version/" into the search bar,
    from there download the suitable webdriver for your browser.
 
-			If you have any problems or criticism email me at fredisheretohelp@protonmail.com
-	
 
 
 Issues: The code might still scroll for a bit more than it needs, just wait until it says "finished" then you can control your 
 	scrolling again.
 	Calculations may be off, they are all averages.
 	Might not work with VPN.
+	
+	
+Thanks, 
+Insula
