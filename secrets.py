@@ -1,2 +1,2 @@
-username = "natesavedme2" #add your username
-pw = "NFislit654" #add your password
+username = "" #add your username
+pw = "" #add your password
